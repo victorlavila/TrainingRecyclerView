@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Trainning list</string>
+    <string name="trainninglist_nome">Nome</string>
+    <string name="trainninglist_number">Matricula</string>
+    <string name="trainninglist_add_studant">adicionar aluno</string>
+</resources>
